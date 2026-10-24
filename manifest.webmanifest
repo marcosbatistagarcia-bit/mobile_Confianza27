@@ -1,0 +1,20 @@
+{
+  "name": "Confianza — Gestão de Riscos & Confiabilidade",
+  "short_name": "Confianza",
+  "description": "Sistema de Gestão de Riscos & Confiabilidade: FMEA, G8D, Weibull, manutenção, lubrificantes, pneus e telemetria.",
+  "lang": "pt-BR",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1b2026",
+  "theme_color": "#1b2026",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "assets/logo/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/logo/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/logo/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/logo/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
